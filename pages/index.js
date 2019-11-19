@@ -1,10 +1,14 @@
 import Head from 'next/head'
+import Nav from '../components/Nav';
 
 const Index = () => (
   <div>
     <Head>
       <title>ALbum</title>
     </Head>
+
+    <Nav />
+
     <h1>Welcome to ALbum</h1>
 
     <div className="music-box">
