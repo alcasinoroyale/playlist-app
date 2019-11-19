@@ -115,7 +115,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 const Nav = () => __jsx("nav", {
-  className: "jsx-2638995331",
+  className: "jsx-3617684067",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 4
@@ -129,7 +129,7 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2638995331",
+  className: "jsx-3617684067",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 6
@@ -143,7 +143,7 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2638995331",
+  className: "jsx-3617684067",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9
@@ -157,7 +157,7 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2638995331",
+  className: "jsx-3617684067",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12
@@ -171,16 +171,16 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-2638995331",
+  className: "jsx-3617684067",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 15
   },
   __self: undefined
 }, "Login")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "2638995331",
+  id: "3617684067",
   __self: undefined
-}, "body{margin:0;font-family:sans-serif;}nav.jsx-2638995331{text-align:center;background-color:#333;height:50px;}nav.jsx-2638995331 a.jsx-2638995331{color:#f5f5f5;-webkit-text-decoration:none;text-decoration:none;font-size:14px;padding:30px;text-transform:uppercase;}nav.jsx-2638995331 a.jsx-2638995331:hover{color:#ffffff;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL2NvbXBvbmVudHMvTmF2LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlCZ0IsQUFHa0IsQUFJUyxBQUtKLEFBT0EsU0FmUyxLQVNGLEFBT0osSUFaSyxhQWF4QixDQWhCQSxRQUljLFlBQ2QsWUFJaUIsZUFDRixhQUNZLHlCQUMzQiIsImZpbGUiOiIvVXNlcnMvYWxleHpkYXRueS9EZXZlbG9wbWVudC9jb2RlL3BsYXlsaXN0LWFwcC9jb21wb25lbnRzL05hdi5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluayc7XG5cbmNvbnN0IE5hdiA9ICgpID0+IChcbiAgPG5hdj5cbiAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgPGE+SG9tZTwvYT5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPlxuICAgICAgPGE+QWJvdXQ8L2E+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvc2lnbnVwXCI+XG4gICAgICA8YT5TaWdudXA8L2E+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvbG9naW5cIj5cbiAgICAgIDxhPkxvZ2luPC9hPlxuICAgIDwvTGluaz5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIDpnbG9iYWwoYm9keSkge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmO1xuICAgICAgfVxuICAgICAgbmF2IHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzMzO1xuICAgICAgICBoZWlnaHQ6IDUwcHg7XG4gICAgICB9XG4gICAgICBuYXYgYSB7XG4gICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgcGFkZGluZzogMzBweDtcbiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbiAgICAgIH1cbiAgICAgIG5hdiBhOmhvdmVyIHtcbiAgICAgICAgY29sb3I6ICNmZmZmZmY7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgfVxuICAgICAgYH1cbiAgICA8L3N0eWxlPlxuICA8L25hdj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IE5hdjtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/components/Nav.js */"));
+}, "body{font-family:sans-serif;margin:0;}nav.jsx-3617684067{text-align:center;background-color:#333;height:70px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}nav.jsx-3617684067 a.jsx-3617684067{color:#f5f5f5;-webkit-text-decoration:none;text-decoration:none;font-size:16px;padding:28px 34px;}nav.jsx-3617684067 a.jsx-3617684067:hover{color:#ffffff;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL2NvbXBvbmVudHMvTmF2LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlCZ0IsQUFHZ0MsQUFJTCxBQU9KLEFBTUEsY0FMTyxBQU1KLElBYkssS0FKYixRQWtCWCxDQWpCQSxRQUljLFlBQ0MsWUFNRSxlQUNHLGtCQUNwQiw2QkFQeUIsbUdBQ3pCIiwiZmlsZSI6Ii9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL2NvbXBvbmVudHMvTmF2LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuY29uc3QgTmF2ID0gKCkgPT4gKFxuICA8bmF2PlxuICAgIDxMaW5rIGhyZWY9XCIvXCI+XG4gICAgICA8YT5Ib21lPC9hPlxuICAgIDwvTGluaz5cbiAgICA8TGluayBocmVmPVwiL2Fib3V0XCI+XG4gICAgICA8YT5BYm91dDwvYT5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9zaWdudXBcIj5cbiAgICAgIDxhPlNpZ251cDwvYT5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9sb2dpblwiPlxuICAgICAgPGE+TG9naW48L2E+XG4gICAgPC9MaW5rPlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgOmdsb2JhbChib2R5KSB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmO1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICB9XG4gICAgICBuYXYge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMzMzM7XG4gICAgICAgIGhlaWdodDogNzBweDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICB9XG4gICAgICBuYXYgYSB7XG4gICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgcGFkZGluZzogMjhweCAzNHB4O1xuICAgICAgfVxuICAgICAgbmF2IGE6aG92ZXIge1xuICAgICAgICBjb2xvcjogI2ZmZmZmZjtcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICB9XG4gICAgICBgfVxuICAgIDwvc3R5bGU+XG4gIDwvbmF2PlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgTmF2O1xuIl19 */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/components/Nav.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Nav);
 
@@ -1937,6 +1937,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _components_Nav__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Nav */ "./components/Nav.js");
+/* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @fortawesome/react-fontawesome */ "@fortawesome/react-fontawesome");
+/* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons */ "@fortawesome/free-solid-svg-icons");
+/* harmony import */ var _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5__);
 var _jsxFileName = "/Users/alexzdatny/Development/code/playlist-app/pages/index.js";
 
 
@@ -1944,95 +1948,139 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 
+
+
 const Index = () => __jsx("div", {
-  className: "jsx-2406944943",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 5
-  },
-  __self: undefined
-}, __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 6
-  },
-  __self: undefined
-}, __jsx("title", {
-  className: "jsx-2406944943",
+  className: "jsx-1490288570",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7
   },
   __self: undefined
-}, "ALbum")), __jsx(_components_Nav__WEBPACK_IMPORTED_MODULE_3__["default"], {
+}, __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 10
+    lineNumber: 8
   },
   __self: undefined
-}), __jsx("h1", {
-  className: "jsx-2406944943",
+}, __jsx("title", {
+  className: "jsx-1490288570",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 9
+  },
+  __self: undefined
+}, "ALbum")), __jsx(_components_Nav__WEBPACK_IMPORTED_MODULE_3__["default"], {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12
   },
   __self: undefined
-}, "Welcome to ALbum"), __jsx("div", {
-  className: "jsx-2406944943" + " " + 'music-box',
+}), __jsx("h1", {
+  className: "jsx-1490288570",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 14
   },
   __self: undefined
-}, __jsx("a", {
-  href: "/playlist",
-  className: "jsx-2406944943" + " " + 'card',
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 15
-  },
-  __self: undefined
-}, __jsx("h2", {
-  className: "jsx-2406944943",
+}, "Welcome to ALbum"), __jsx("div", {
+  className: "jsx-1490288570" + " " + 'music-box',
   __source: {
     fileName: _jsxFileName,
     lineNumber: 16
   },
   __self: undefined
-}, "Create a Playlist")), __jsx("a", {
-  href: "/genres",
-  className: "jsx-2406944943" + " " + 'card',
+}, __jsx("a", {
+  href: "/playlist",
+  className: "jsx-1490288570" + " " + 'card',
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17
+  },
+  __self: undefined
+}, __jsx("h1", {
+  className: "jsx-1490288570",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18
+  },
+  __self: undefined
+}, __jsx(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4__["FontAwesomeIcon"], {
+  icon: _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5__["faCompactDisc"],
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18
+  },
+  __self: undefined
+})), __jsx("h2", {
+  className: "jsx-1490288570",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 19
   },
   __self: undefined
-}, __jsx("h2", {
-  className: "jsx-2406944943",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 20
-  },
-  __self: undefined
-}, "Search Genres")), __jsx("a", {
-  href: "/artists",
-  className: "jsx-2406944943" + " " + 'card',
+}, "Create a Playlist")), __jsx("a", {
+  href: "/genres",
+  className: "jsx-1490288570" + " " + 'card',
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23
   },
   __self: undefined
-}, __jsx("h2", {
-  className: "jsx-2406944943",
+}, __jsx("h1", {
+  className: "jsx-1490288570",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 24
   },
   __self: undefined
-}, "Discover Artists"))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "2406944943",
+}, __jsx(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4__["FontAwesomeIcon"], {
+  icon: _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5__["faMusic"],
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 24
+  },
   __self: undefined
-}, "body{background-color:#203b4f;font-family:sans-serif;}h1{color:#f5f5f5;text-align:center;}.music-box{max-width:880px;margin:60px auto 40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;}.music-box h2{color:#333;}.card{text-align:center;-webkit-text-decoration:none;text-decoration:none;width:220px;padding:18px 18px 24px;background-color:#b89911;border-radius:6px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQTRCdUIsQUFHb0MsQUFJWCxBQUlFLEFBT0wsQUFHTyxXQUZwQixHQVhvQixFQUlHLEVBVUEsT0FsQkUsT0FLekIsTUFJZSxVQVJmLG9CQWtCYyxZQUNXLHVCQUNFLFNBWE4sZ0JBWUQsa0JBQ3BCLG1DQVorQiwySEFDL0IiLCJmaWxlIjoiL1VzZXJzL2FsZXh6ZGF0bnkvRGV2ZWxvcG1lbnQvY29kZS9wbGF5bGlzdC1hcHAvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgTmF2IGZyb20gJy4uL2NvbXBvbmVudHMvTmF2JztcblxuY29uc3QgSW5kZXggPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+QUxidW08L3RpdGxlPlxuICAgIDwvSGVhZD5cblxuICAgIDxOYXYgLz5cblxuICAgIDxoMT5XZWxjb21lIHRvIEFMYnVtPC9oMT5cblxuICAgIDxkaXYgY2xhc3NOYW1lPSdtdXNpYy1ib3gnPlxuICAgICAgPGEgaHJlZj0nL3BsYXlsaXN0JyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+Q3JlYXRlIGEgUGxheWxpc3Q8L2gyPlxuICAgICAgPC9hPlxuXG4gICAgICA8YSBocmVmPScvZ2VucmVzJyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+U2VhcmNoIEdlbnJlczwvaDI+XG4gICAgICA8L2E+XG5cbiAgICAgIDxhIGhyZWY9Jy9hcnRpc3RzJyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+RGlzY292ZXIgQXJ0aXN0czwvaDI+XG4gICAgICA8L2E+XG5cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntgXG4gICAgICAgIGJvZHkge1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMyMDNiNGY7XG4gICAgICAgICAgZm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7XG4gICAgICAgIH1cbiAgICAgICAgaDEge1xuICAgICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuICAgICAgICAubXVzaWMtYm94IHtcbiAgICAgICAgICBtYXgtd2lkdGg6IDg4MHB4O1xuICAgICAgICAgIG1hcmdpbiA2MHB4IGF1dG8gNDBweDtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICAgIH1cbiAgICAgICAgLm11c2ljLWJveCBoMiB7XG4gICAgICAgICAgY29sb3I6ICMzMzM7XG4gICAgICAgIH1cbiAgICAgICAgLmNhcmQge1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgd2lkdGg6IDIyMHB4O1xuICAgICAgICAgIHBhZGRpbmc6IDE4cHggMThweCAyNHB4O1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNiODk5MTE7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbik7XG5cblxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/pages/index.js */"));
+})), __jsx("h2", {
+  className: "jsx-1490288570",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 25
+  },
+  __self: undefined
+}, "Search Genres")), __jsx("a", {
+  href: "/artists",
+  className: "jsx-1490288570" + " " + 'card',
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 28
+  },
+  __self: undefined
+}, __jsx("h1", {
+  className: "jsx-1490288570",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 29
+  },
+  __self: undefined
+}, __jsx(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_4__["FontAwesomeIcon"], {
+  icon: _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_5__["faMicrophone"],
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 29
+  },
+  __self: undefined
+})), __jsx("h2", {
+  className: "jsx-1490288570",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 30
+  },
+  __self: undefined
+}, "Discover Artists"))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  id: "1490288570",
+  __self: undefined
+}, "body{background-color:#203b4f;font-family:sans-serif;}h1{color:#f5f5f5;text-align:center;}.music-box{max-width:880px;margin:60px auto 40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;}.music-box h2{color:#333;}.music-box h1{color:#203b4f;}.card{text-align:center;-webkit-text-decoration:none;text-decoration:none;width:220px;padding:18px 18px 24px;background-color:#b89911;border-radius:6px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWtDdUIsQUFHb0MsQUFJWCxBQUlFLEFBT0wsQUFJZCxBQUVxQixXQUxwQixHQVhvQixBQWNwQixFQVZ1QixFQWFBLE9BckJFLE9BS3pCLE1BSWUsVUFSZixvQkFxQmMsWUFDVyx1QkFDRSxTQWROLGdCQWVELGtCQUNwQixtQ0FmK0IsMkhBQy9CIiwiZmlsZSI6Ii9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJ1xuaW1wb3J0IE5hdiBmcm9tICcuLi9jb21wb25lbnRzL05hdic7XG5pbXBvcnQgeyBGb250QXdlc29tZUljb24gfSBmcm9tICdAZm9ydGF3ZXNvbWUvcmVhY3QtZm9udGF3ZXNvbWUnXG5pbXBvcnQgeyBmYUNvbXBhY3REaXNjLCBmYU11c2ljLCBmYU1pY3JvcGhvbmUgfSBmcm9tICdAZm9ydGF3ZXNvbWUvZnJlZS1zb2xpZC1zdmctaWNvbnMnXG5cbmNvbnN0IEluZGV4ID0gKCkgPT4gKFxuICA8ZGl2PlxuICAgIDxIZWFkPlxuICAgICAgPHRpdGxlPkFMYnVtPC90aXRsZT5cbiAgICA8L0hlYWQ+XG5cbiAgICA8TmF2IC8+XG5cbiAgICA8aDE+V2VsY29tZSB0byBBTGJ1bTwvaDE+XG5cbiAgICA8ZGl2IGNsYXNzTmFtZT0nbXVzaWMtYm94Jz5cbiAgICAgIDxhIGhyZWY9Jy9wbGF5bGlzdCcgY2xhc3NOYW1lPSdjYXJkJz5cbiAgICAgICAgPGgxPjxGb250QXdlc29tZUljb24gaWNvbj17ZmFDb21wYWN0RGlzY30gLz48L2gxPlxuICAgICAgICA8aDI+Q3JlYXRlIGEgUGxheWxpc3Q8L2gyPlxuICAgICAgPC9hPlxuXG5cbiAgICAgIDxhIGhyZWY9Jy9nZW5yZXMnIGNsYXNzTmFtZT0nY2FyZCc+XG4gICAgICA8aDE+PEZvbnRBd2Vzb21lSWNvbiBpY29uPXtmYU11c2ljfSAvPjwvaDE+XG4gICAgICAgIDxoMj5TZWFyY2ggR2VucmVzPC9oMj5cbiAgICAgIDwvYT5cblxuICAgICAgPGEgaHJlZj0nL2FydGlzdHMnIGNsYXNzTmFtZT0nY2FyZCc+XG4gICAgICA8aDE+PEZvbnRBd2Vzb21lSWNvbiBpY29uPXtmYU1pY3JvcGhvbmV9IC8+PC9oMT5cbiAgICAgICAgPGgyPkRpc2NvdmVyIEFydGlzdHM8L2gyPlxuICAgICAgPC9hPlxuXG4gICAgPC9kaXY+XG5cbiAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgICBib2R5IHtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjAzYjRmO1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmO1xuICAgICAgICB9XG4gICAgICAgIGgxIHtcbiAgICAgICAgICBjb2xvcjogI2Y1ZjVmNTtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIH1cbiAgICAgICAgLm11c2ljLWJveCB7XG4gICAgICAgICAgbWF4LXdpZHRoOiA4ODBweDtcbiAgICAgICAgICBtYXJnaW4gNjBweCBhdXRvIDQwcHg7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYXJvdW5kO1xuICAgICAgICB9XG4gICAgICAgIC5tdXNpYy1ib3ggaDIge1xuICAgICAgICAgIGNvbG9yOiAjMzMzO1xuICAgICAgICB9XG4gICAgICAgIC5tdXNpYy1ib3ggaDEge1xuICAgICAgICAgIGNvbG9yOiAjMjAzYjRmXG4gICAgICAgIH1cbiAgICAgICAgLmNhcmQge1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgd2lkdGg6IDIyMHB4O1xuICAgICAgICAgIHBhZGRpbmc6IDE4cHggMThweCAyNHB4O1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNiODk5MTE7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbik7XG5cblxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/pages/index.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
@@ -2047,6 +2095,28 @@ const Index = () => __jsx("div", {
 
 module.exports = __webpack_require__(/*! /Users/alexzdatny/Development/code/playlist-app/pages/index.js */"./pages/index.js");
 
+
+/***/ }),
+
+/***/ "@fortawesome/free-solid-svg-icons":
+/*!****************************************************!*\
+  !*** external "@fortawesome/free-solid-svg-icons" ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("@fortawesome/free-solid-svg-icons");
+
+/***/ }),
+
+/***/ "@fortawesome/react-fontawesome":
+/*!*************************************************!*\
+  !*** external "@fortawesome/react-fontawesome" ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("@fortawesome/react-fontawesome");
 
 /***/ }),
 

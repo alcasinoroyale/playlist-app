@@ -17,20 +17,21 @@ const Nav = () => (
 
     <style jsx>{`
       :global(body) {
-        margin: 0;
         font-family: sans-serif;
+        margin: 0;
       }
       nav {
         text-align: center;
         background-color: #333;
-        height: 50px;
+        height: 70px;
+        display: flex;
+        justify-content: center;
       }
       nav a {
         color: #f5f5f5;
         text-decoration: none;
-        font-size: 14px;
-        padding: 30px;
-        text-transform: uppercase;
+        font-size: 16px;
+        padding: 28px 34px;
       }
       nav a:hover {
         color: #ffffff;

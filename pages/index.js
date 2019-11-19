@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import Nav from '../components/Nav';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCompactDisc, faMusic, faMicrophone } from '@fortawesome/free-solid-svg-icons'
 
 const Index = () => (
   <div>
@@ -13,14 +15,18 @@ const Index = () => (
 
     <div className='music-box'>
       <a href='/playlist' className='card'>
+        <h1><FontAwesomeIcon icon={faCompactDisc} /></h1>
         <h2>Create a Playlist</h2>
       </a>
 
+
       <a href='/genres' className='card'>
+      <h1><FontAwesomeIcon icon={faMusic} /></h1>
         <h2>Search Genres</h2>
       </a>
 
       <a href='/artists' className='card'>
+      <h1><FontAwesomeIcon icon={faMicrophone} /></h1>
         <h2>Discover Artists</h2>
       </a>
 
@@ -44,6 +50,9 @@ const Index = () => (
         }
         .music-box h2 {
           color: #333;
+        }
+        .music-box h1 {
+          color: #203b4f
         }
         .card {
           text-align: center;
