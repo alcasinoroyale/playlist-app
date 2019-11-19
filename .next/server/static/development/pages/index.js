@@ -115,7 +115,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 const Nav = () => __jsx("nav", {
-  className: "jsx-367219360",
+  className: "jsx-2638995331",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 4
@@ -129,13 +129,13 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-367219360",
+  className: "jsx-2638995331",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 6
   },
   __self: undefined
-}, "AL-Bum")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+}, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
   href: "/about",
   __source: {
     fileName: _jsxFileName,
@@ -143,16 +143,44 @@ const Nav = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx("a", {
-  className: "jsx-367219360",
+  className: "jsx-2638995331",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9
   },
   __self: undefined
-}, "About")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "367219360",
+}, "About")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  href: "/signup",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 11
+  },
   __self: undefined
-}, "body{font-family:sans-serif;}nav.jsx-367219360{text-align:center;}nav.jsx-367219360 a.jsx-367219360{color:#f5f5f5;-webkit-text-decoration:none;text-decoration:none;font-size:14px;padding:20px;}nav.jsx-367219360 a.jsx-367219360:hover{color:#ffffff;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL2NvbXBvbmVudHMvTmF2LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQVdnQixBQUdnQyxBQUdMLEFBR0osQUFNQSxjQUxPLEFBTUosSUFUbkIsS0FIQSxRQWFBLGlDQU5pQixlQUNGLGFBQ2YiLCJmaWxlIjoiL1VzZXJzL2FsZXh6ZGF0bnkvRGV2ZWxvcG1lbnQvY29kZS9wbGF5bGlzdC1hcHAvY29tcG9uZW50cy9OYXYuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5jb25zdCBOYXYgPSAoKSA9PiAoXG4gIDxuYXY+XG4gICAgPExpbmsgaHJlZj1cIi9cIj5cbiAgICAgIDxhPkFMLUJ1bTwvYT5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPlxuICAgICAgPGE+QWJvdXQ8L2E+XG4gICAgPC9MaW5rPlxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgOmdsb2JhbChib2R5KSB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmO1xuICAgICAgfVxuICAgICAgbmF2IHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgfVxuICAgICAgbmF2IGEge1xuICAgICAgICBjb2xvcjogI2Y1ZjVmNTtcbiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIHBhZGRpbmc6IDIwcHg7XG4gICAgICB9XG4gICAgICBuYXYgYTpob3ZlciB7XG4gICAgICAgIGNvbG9yOiAjZmZmZmZmO1xuICAgICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICAgIH1cbiAgICAgIGB9XG4gICAgPC9zdHlsZT5cbiAgPC9uYXY+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBOYXY7XG4iXX0= */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/components/Nav.js */"));
+}, __jsx("a", {
+  className: "jsx-2638995331",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12
+  },
+  __self: undefined
+}, "Signup")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  href: "/login",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 14
+  },
+  __self: undefined
+}, __jsx("a", {
+  className: "jsx-2638995331",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15
+  },
+  __self: undefined
+}, "Login")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  id: "2638995331",
+  __self: undefined
+}, "body{margin:0;font-family:sans-serif;}nav.jsx-2638995331{text-align:center;background-color:#333;height:50px;}nav.jsx-2638995331 a.jsx-2638995331{color:#f5f5f5;-webkit-text-decoration:none;text-decoration:none;font-size:14px;padding:30px;text-transform:uppercase;}nav.jsx-2638995331 a.jsx-2638995331:hover{color:#ffffff;font-weight:bold;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL2NvbXBvbmVudHMvTmF2LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWlCZ0IsQUFHa0IsQUFJUyxBQUtKLEFBT0EsU0FmUyxLQVNGLEFBT0osSUFaSyxhQWF4QixDQWhCQSxRQUljLFlBQ2QsWUFJaUIsZUFDRixhQUNZLHlCQUMzQiIsImZpbGUiOiIvVXNlcnMvYWxleHpkYXRueS9EZXZlbG9wbWVudC9jb2RlL3BsYXlsaXN0LWFwcC9jb21wb25lbnRzL05hdi5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gJ25leHQvbGluayc7XG5cbmNvbnN0IE5hdiA9ICgpID0+IChcbiAgPG5hdj5cbiAgICA8TGluayBocmVmPVwiL1wiPlxuICAgICAgPGE+SG9tZTwvYT5cbiAgICA8L0xpbms+XG4gICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPlxuICAgICAgPGE+QWJvdXQ8L2E+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvc2lnbnVwXCI+XG4gICAgICA8YT5TaWdudXA8L2E+XG4gICAgPC9MaW5rPlxuICAgIDxMaW5rIGhyZWY9XCIvbG9naW5cIj5cbiAgICAgIDxhPkxvZ2luPC9hPlxuICAgIDwvTGluaz5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIDpnbG9iYWwoYm9keSkge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmO1xuICAgICAgfVxuICAgICAgbmF2IHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMzMzO1xuICAgICAgICBoZWlnaHQ6IDUwcHg7XG4gICAgICB9XG4gICAgICBuYXYgYSB7XG4gICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgcGFkZGluZzogMzBweDtcbiAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbiAgICAgIH1cbiAgICAgIG5hdiBhOmhvdmVyIHtcbiAgICAgICAgY29sb3I6ICNmZmZmZmY7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgfVxuICAgICAgYH1cbiAgICA8L3N0eWxlPlxuICA8L25hdj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IE5hdjtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/components/Nav.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Nav);
 
@@ -1917,7 +1945,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 const Index = () => __jsx("div", {
-  className: "jsx-3385669963",
+  className: "jsx-2406944943",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 5
@@ -1930,7 +1958,7 @@ const Index = () => __jsx("div", {
   },
   __self: undefined
 }, __jsx("title", {
-  className: "jsx-3385669963",
+  className: "jsx-2406944943",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 7
@@ -1943,44 +1971,68 @@ const Index = () => __jsx("div", {
   },
   __self: undefined
 }), __jsx("h1", {
-  className: "jsx-3385669963",
+  className: "jsx-2406944943",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 12
   },
   __self: undefined
 }, "Welcome to ALbum"), __jsx("div", {
-  className: "jsx-3385669963" + " " + "music-box",
+  className: "jsx-2406944943" + " " + 'music-box',
   __source: {
     fileName: _jsxFileName,
     lineNumber: 14
   },
   __self: undefined
-}, __jsx("h3", {
-  className: "jsx-3385669963",
+}, __jsx("a", {
+  href: "/playlist",
+  className: "jsx-2406944943" + " " + 'card',
   __source: {
     fileName: _jsxFileName,
     lineNumber: 15
   },
   __self: undefined
-}, "Create a Playlist"), __jsx("h3", {
-  className: "jsx-3385669963",
+}, __jsx("h2", {
+  className: "jsx-2406944943",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 16
   },
   __self: undefined
-}, "Search Genres"), __jsx("h3", {
-  className: "jsx-3385669963",
+}, "Create a Playlist")), __jsx("a", {
+  href: "/genres",
+  className: "jsx-2406944943" + " " + 'card',
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 17
+    lineNumber: 19
   },
   __self: undefined
-}, "Discover Artists")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-  id: "3385669963",
+}, __jsx("h2", {
+  className: "jsx-2406944943",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 20
+  },
   __self: undefined
-}, "body{background-color:#203b4f;font-family:sans-serif;}h1{color:#f5f5f5;text-align:center;}.music-box h3{color:#f5f5f5;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW1CdUIsQUFHb0MsQUFJWCxBQUlBLGNBSEksQUFJcEIsV0FSeUIsT0FLekIsZ0JBSkEiLCJmaWxlIjoiL1VzZXJzL2FsZXh6ZGF0bnkvRGV2ZWxvcG1lbnQvY29kZS9wbGF5bGlzdC1hcHAvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgTmF2IGZyb20gJy4uL2NvbXBvbmVudHMvTmF2JztcblxuY29uc3QgSW5kZXggPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+QUxidW08L3RpdGxlPlxuICAgIDwvSGVhZD5cblxuICAgIDxOYXYgLz5cblxuICAgIDxoMT5XZWxjb21lIHRvIEFMYnVtPC9oMT5cblxuICAgIDxkaXYgY2xhc3NOYW1lPVwibXVzaWMtYm94XCI+XG4gICAgICA8aDM+Q3JlYXRlIGEgUGxheWxpc3Q8L2gzPlxuICAgICAgPGgzPlNlYXJjaCBHZW5yZXM8L2gzPlxuICAgICAgPGgzPkRpc2NvdmVyIEFydGlzdHM8L2gzPlxuICAgIDwvZGl2PlxuXG4gICAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcbiAgICAgICAgYm9keSB7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzIwM2I0ZjtcbiAgICAgICAgICBmb250LWZhbWlseTogc2Fucy1zZXJpZjtcbiAgICAgICAgfVxuICAgICAgICBoMSB7XG4gICAgICAgICAgY29sb3I6ICNmNWY1ZjU7XG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICB9XG4gICAgICAgIC5tdXNpYy1ib3ggaDMge1xuICAgICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbik7XG5cblxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/pages/index.js */"));
+}, "Search Genres")), __jsx("a", {
+  href: "/artists",
+  className: "jsx-2406944943" + " " + 'card',
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23
+  },
+  __self: undefined
+}, __jsx("h2", {
+  className: "jsx-2406944943",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 24
+  },
+  __self: undefined
+}, "Discover Artists"))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  id: "2406944943",
+  __self: undefined
+}, "body{background-color:#203b4f;font-family:sans-serif;}h1{color:#f5f5f5;text-align:center;}.music-box{max-width:880px;margin:60px auto 40px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;}.music-box h2{color:#333;}.card{text-align:center;-webkit-text-decoration:none;text-decoration:none;width:220px;padding:18px 18px 24px;background-color:#b89911;border-radius:6px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hbGV4emRhdG55L0RldmVsb3BtZW50L2NvZGUvcGxheWxpc3QtYXBwL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQTRCdUIsQUFHb0MsQUFJWCxBQUlFLEFBT0wsQUFHTyxXQUZwQixHQVhvQixFQUlHLEVBVUEsT0FsQkUsT0FLekIsTUFJZSxVQVJmLG9CQWtCYyxZQUNXLHVCQUNFLFNBWE4sZ0JBWUQsa0JBQ3BCLG1DQVorQiwySEFDL0IiLCJmaWxlIjoiL1VzZXJzL2FsZXh6ZGF0bnkvRGV2ZWxvcG1lbnQvY29kZS9wbGF5bGlzdC1hcHAvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSGVhZCBmcm9tICduZXh0L2hlYWQnXG5pbXBvcnQgTmF2IGZyb20gJy4uL2NvbXBvbmVudHMvTmF2JztcblxuY29uc3QgSW5kZXggPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPEhlYWQ+XG4gICAgICA8dGl0bGU+QUxidW08L3RpdGxlPlxuICAgIDwvSGVhZD5cblxuICAgIDxOYXYgLz5cblxuICAgIDxoMT5XZWxjb21lIHRvIEFMYnVtPC9oMT5cblxuICAgIDxkaXYgY2xhc3NOYW1lPSdtdXNpYy1ib3gnPlxuICAgICAgPGEgaHJlZj0nL3BsYXlsaXN0JyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+Q3JlYXRlIGEgUGxheWxpc3Q8L2gyPlxuICAgICAgPC9hPlxuXG4gICAgICA8YSBocmVmPScvZ2VucmVzJyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+U2VhcmNoIEdlbnJlczwvaDI+XG4gICAgICA8L2E+XG5cbiAgICAgIDxhIGhyZWY9Jy9hcnRpc3RzJyBjbGFzc05hbWU9J2NhcmQnPlxuICAgICAgICA8aDI+RGlzY292ZXIgQXJ0aXN0czwvaDI+XG4gICAgICA8L2E+XG5cbiAgICA8L2Rpdj5cblxuICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntgXG4gICAgICAgIGJvZHkge1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMyMDNiNGY7XG4gICAgICAgICAgZm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7XG4gICAgICAgIH1cbiAgICAgICAgaDEge1xuICAgICAgICAgIGNvbG9yOiAjZjVmNWY1O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuICAgICAgICAubXVzaWMtYm94IHtcbiAgICAgICAgICBtYXgtd2lkdGg6IDg4MHB4O1xuICAgICAgICAgIG1hcmdpbiA2MHB4IGF1dG8gNDBweDtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1hcm91bmQ7XG4gICAgICAgIH1cbiAgICAgICAgLm11c2ljLWJveCBoMiB7XG4gICAgICAgICAgY29sb3I6ICMzMzM7XG4gICAgICAgIH1cbiAgICAgICAgLmNhcmQge1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgd2lkdGg6IDIyMHB4O1xuICAgICAgICAgIHBhZGRpbmc6IDE4cHggMThweCAyNHB4O1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNiODk5MTE7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNnB4O1xuICAgICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2Rpdj5cbik7XG5cblxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/alexzdatny/Development/code/playlist-app/pages/index.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
