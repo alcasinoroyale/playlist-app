@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Nav from '../components/Nav';
+import Nav from '../components/nav';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCompactDisc, faMusic, faMicrophone } from '@fortawesome/free-solid-svg-icons'
 
